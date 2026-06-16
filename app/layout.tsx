@@ -25,7 +25,7 @@ const hindMadurai = Hind_Madurai({
 });
 
 export const metadata: Metadata = {
-  title: 'GreenWay Goods | From Hills to Home',
+  title: 'GreenWay Goods Trading | From Hills to Home',
   description: 'Pure, Natural, Trusted hill produce from Tamil Nadu.',
 };
 

@@ -65,7 +65,7 @@ export default function Testimonials() {
         <div className="test-card left">
           <div className="test-stars">★★★★★</div>
           <p className="test-quote">
-            "I've been using Greenway cardamom for chai every morning. My family refuses to switch back."
+            "I've been using GreenWay Goods Trading cardamom for chai every morning. My family refuses to switch back."
           </p>
           <p className="test-author">— Priya V., Coimbatore</p>
           <span className="test-product">Cardamom</span>

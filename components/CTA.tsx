@@ -49,7 +49,7 @@ export default function CTA() {
             <span className="cta-word-inner">thing?</span>
           </div>
         </h2>
-        <p className="cta-body">Order directly from Greenway Goods. Fresh stock, direct from our farms.</p>
+        <p className="cta-body">Order directly from GreenWay Goods Trading. Fresh stock, direct from our farms.</p>
         <div className="cta-buttons">
           <a href="#" className="btn-primary">
             Shop Now

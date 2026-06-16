@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="footer-grid">
         <div className="footer-col">
           <div className="footer-logo gap-2">
-            <Image src="/logo.jpeg" alt="Greenway Goods Logo" width={32} height={32} className="rounded-full object-cover" /> Greenway Goods
+            <Image src="/logo.jpeg" alt="GreenWay Goods Trading Logo" width={32} height={32} className="rounded-full object-cover" /> GreenWay Goods Trading
           </div>
           <p className="footer-tagline">"From Hills to Home"</p>
           <div className="footer-socials">
@@ -69,7 +69,7 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div className="footer-bottom">&copy; 2026 Greenway Goods Trading. All rights reserved.</div>
+      <div className="footer-bottom">&copy; 2026 GreenWay Goods Trading. All rights reserved.</div>
     </footer>
   );
 }

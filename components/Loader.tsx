@@ -34,7 +34,7 @@ export default function Loader() {
       <div className="loader-bar-container">
         <div className="loader-bar"></div>
       </div>
-      <div className="loader-text">Greenway Goods</div>
+      <div className="loader-text">GreenWay Goods Trading</div>
     </div>
   );
 }

@@ -30,8 +30,8 @@ export default function Navbar() {
     <div className="nav-container" ref={navRef}>
       <nav className="nav-bar">
         <a href="#" className="nav-logo">
-          <Image src="/logo.jpeg" alt="Greenway Goods Logo" width={32} height={32} className="rounded-full object-cover" />
-          Greenway Goods
+          <Image src="/logo.jpeg" alt="GreenWay Goods Trading Logo" width={32} height={32} className="rounded-full object-cover" />
+          GreenWay Goods Trading
         </a>
         <div className={`nav-links ${isOpen ? 'active' : ''}`}>
           <a href="#home" onClick={() => setIsOpen(false)}>Home</a>
